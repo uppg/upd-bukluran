@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/144/trunk/application/views/organization
+END
+req_details.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/93/trunk/application/views/organization/req_details.php
+END
+change_password_success.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/116/trunk/application/views/organization/change_password_success.php
+END
+requirements.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/142/trunk/application/views/organization/requirements.php
+END
+change_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/116/trunk/application/views/organization/change_password.php
+END
+clarification.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/78/trunk/application/views/organization/clarification.php
+END

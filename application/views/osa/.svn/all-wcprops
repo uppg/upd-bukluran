@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/131/trunk/application/views/osa
+END
+manage_app_period.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/44/trunk/application/views/osa/manage_app_period.php
+END
+req_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/101/trunk/application/views/osa/req_form.php
+END
+create_clarification.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/78/trunk/application/views/osa/create_clarification.php
+END
+create_announcement.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/62/trunk/application/views/osa/create_announcement.php
+END
+create_organization_success.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/131/trunk/application/views/osa/create_organization_success.php
+END
+manage_reqs.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/trunk/application/views/osa/manage_reqs.php
+END
+create_organization.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/30/trunk/application/views/osa/create_organization.php
+END

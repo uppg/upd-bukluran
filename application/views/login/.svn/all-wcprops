@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/125/trunk/application/views/login
+END
+lost_success.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/125/trunk/application/views/login/lost_success.php
+END
+link.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/125/trunk/application/views/login/link.php
+END
+lost_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/125/trunk/application/views/login/lost_link.php
+END
+user_pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/125/trunk/application/views/login/user_pass.php
+END
+lost_pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/125/trunk/application/views/login/lost_pass.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/125/trunk/application/views/emails
+END
+announcement.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/95/trunk/application/views/emails/announcement.php
+END
+lost_code.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/125/trunk/application/views/emails/lost_code.php
+END
+faculty_confirmation.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/95/trunk/application/views/emails/faculty_confirmation.php
+END
+member_confirmation.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/95/trunk/application/views/emails/member_confirmation.php
+END
+notification.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/95/trunk/application/views/emails/notification.php
+END
+clarification.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/95/trunk/application/views/emails/clarification.php
+END
+lost_pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/125/trunk/application/views/emails/lost_pass.php
+END

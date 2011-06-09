@@ -1,0 +1,82 @@
+8
+
+dir
+151
+https://bukluran2.googlecode.com/svn/trunk/system/plugins
+https://bukluran2.googlecode.com/svn
+
+
+
+2010-05-12T12:08:25.769330Z
+45
+jc.deoferio@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+26e7e214-c618-11de-bfbd-4d0f0f27293a
+
+captcha_pi.php
+file
+
+
+
+
+2010-06-11T06:10:24.000000Z
+5d874b3bd334054cc004387ecfa99ed7
+2009-12-13T17:09:15.536538Z
+6
+jc.deoferio@gmail.com
+
+js_calendar_pi.php
+file
+
+
+
+
+2010-06-11T06:10:24.000000Z
+ef9a218b4a8058b37f8464ca7c593c8f
+2009-12-13T17:09:15.536538Z
+6
+jc.deoferio@gmail.com
+
+dompdf_pi.php
+file
+
+
+
+
+2010-06-11T06:10:24.000000Z
+b871ff7f49848a79171d0ff4486c5d9a
+2010-05-12T12:08:25.769330Z
+45
+jc.deoferio@gmail.com
+
+dompdf
+dir
+
+fckeditor
+dir
+
+index.html
+file
+
+
+
+
+2010-06-11T06:10:24.000000Z
+0227cfd904e99656279202032b98d4a7
+2009-10-31T12:35:47.162084Z
+2
+jc.deoferio@gmail.com
+

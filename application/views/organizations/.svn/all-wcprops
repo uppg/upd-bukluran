@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/146/trunk/application/views/organizations
+END
+list.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/63/trunk/application/views/organizations/list.php
+END
+public_profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/application/views/organizations/public_profile.php
+END
+confirm_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/142/trunk/application/views/organizations/confirm_list.php
+END
+manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/146/trunk/application/views/organizations/manage.php
+END

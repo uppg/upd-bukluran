@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/trunk/system/plugins/dompdf
+END
+LICENSE.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/system/plugins/dompdf/LICENSE.LGPL
+END
+dompdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/trunk/system/plugins/dompdf/dompdf.php
+END
+HACKING
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/trunk/system/plugins/dompdf/HACKING
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/45/trunk/system/plugins/dompdf/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/trunk/system/plugins/dompdf/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/45/trunk/system/plugins/dompdf/ChangeLog
+END
+load_font.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/system/plugins/dompdf/load_font.php
+END
+dompdf_config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/system/plugins/dompdf/dompdf_config.inc.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/trunk/system/plugins/dompdf/README
+END

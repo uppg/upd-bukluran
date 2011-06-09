@@ -1,0 +1,85 @@
+8
+
+dir
+151
+https://bukluran2.googlecode.com/svn/trunk/system/plugins/fckeditor/editor/_source
+https://bukluran2.googlecode.com/svn
+
+
+
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+26e7e214-c618-11de-bfbd-4d0f0f27293a
+
+internals
+dir
+
+fckeditorapi.js
+file
+
+
+
+
+2010-06-11T06:09:48.000000Z
+78c6d38eaf206ea98624e34005f8e47a
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+fckjscoreextensions.js
+file
+
+
+
+
+2010-06-11T06:09:48.000000Z
+4ff4d0432f429b02019b173f53358e2a
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+fckscriptloader.js
+file
+
+
+
+
+2010-06-11T06:09:48.000000Z
+52dd7f72544ec6de46e50eda82789d9b
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+fckconstants.js
+file
+
+
+
+
+2010-06-11T06:09:48.000000Z
+3e21993982efac4d69a5e43623450e33
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+commandclasses
+dir
+
+classes
+dir
+

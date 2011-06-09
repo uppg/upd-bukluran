@@ -1,0 +1,58 @@
+8
+
+dir
+151
+https://bukluran2.googlecode.com/svn/trunk/system/scaffolding
+https://bukluran2.googlecode.com/svn
+
+
+
+2009-12-13T17:09:15.536538Z
+6
+jc.deoferio@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+26e7e214-c618-11de-bfbd-4d0f0f27293a
+
+images
+dir
+
+Scaffolding.php
+file
+
+
+
+
+2010-06-11T06:09:14.000000Z
+96799206b3fa79bebbdb06c1c012a679
+2009-12-13T17:09:15.536538Z
+6
+jc.deoferio@gmail.com
+
+index.html
+file
+
+
+
+
+2010-06-11T06:09:14.000000Z
+0227cfd904e99656279202032b98d4a7
+2009-10-31T12:35:47.162084Z
+2
+jc.deoferio@gmail.com
+
+views
+dir
+

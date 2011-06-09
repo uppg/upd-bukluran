@@ -1,0 +1,27 @@
+.announcement{
+	margin-bottom:15px;
+}
+
+.announcementDetails_title{
+	font-size:20px;
+	font-weight:bold;
+	margin-bottom:5px;
+}
+
+.announcementDetails_postInfo{
+	font-size:10px;
+	padding-top:3px;
+	padding-bottom:15px;
+}
+
+.announcementDetails_username{
+	font-weight:bold;
+}
+
+.announcementDetails_date{
+	font-weight:bold;
+}
+
+.announcementDetails_content p{
+	margin-bottom:10px;
+}

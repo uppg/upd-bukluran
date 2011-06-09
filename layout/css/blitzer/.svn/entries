@@ -1,0 +1,55 @@
+8
+
+dir
+151
+https://bukluran2.googlecode.com/svn/trunk/layout/css/blitzer
+https://bukluran2.googlecode.com/svn
+
+
+
+2010-06-15T08:56:18.585604Z
+123
+jc.deoferio@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+26e7e214-c618-11de-bfbd-4d0f0f27293a
+
+images
+dir
+
+index.html
+file
+
+
+
+
+2010-06-16T04:32:24.000000Z
+0227cfd904e99656279202032b98d4a7
+2010-06-15T08:56:18.585604Z
+123
+jc.deoferio@gmail.com
+
+jquery-ui-1.8.custom.css
+file
+
+
+
+
+2010-06-11T06:13:51.000000Z
+f909ba4e6dacecac2f0c2e39c3ead537
+2010-04-11T10:00:26.491964Z
+17
+jc.deoferio@gmail.com
+

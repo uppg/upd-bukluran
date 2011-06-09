@@ -1,0 +1,52 @@
+8
+
+dir
+151
+https://bukluran2.googlecode.com/svn/trunk/system/plugins/fckeditor/editor/css/behaviors
+https://bukluran2.googlecode.com/svn
+
+
+
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+26e7e214-c618-11de-bfbd-4d0f0f27293a
+
+disablehandles.htc
+file
+
+
+
+
+2010-06-11T06:10:07.000000Z
+6d4a9315ac5181b5357db21f0c5f04fe
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+showtableborders.htc
+file
+
+
+
+
+2010-06-11T06:10:07.000000Z
+ff440605e399b371145d1883a9912cf3
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+

@@ -1,0 +1,8 @@
+.print{display:block;}
+
+#headerWrapper{display:none;}
+#topnavWrapper{display:none;}
+#toppanel{display:none;}
+#content_sidebar{display:none;}
+
+.contentHeader_text{font-style:bold; font-size:25px;}

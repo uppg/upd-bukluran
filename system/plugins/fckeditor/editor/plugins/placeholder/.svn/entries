@@ -1,0 +1,68 @@
+8
+
+dir
+151
+https://bukluran2.googlecode.com/svn/trunk/system/plugins/fckeditor/editor/plugins/placeholder
+https://bukluran2.googlecode.com/svn
+
+
+
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+26e7e214-c618-11de-bfbd-4d0f0f27293a
+
+lang
+dir
+
+placeholder.gif
+file
+
+
+
+
+2010-06-11T06:09:49.000000Z
+090274dbcc2f5a50ea1086d948ca85ab
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+has-props
+
+fck_placeholder.html
+file
+
+
+
+
+2010-06-11T06:09:49.000000Z
+89cd76c261569f123732e521879765c7
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+fckplugin.js
+file
+
+
+
+
+2010-06-11T06:09:49.000000Z
+f89e35de40c9f5edeb0818a58a23ae5d
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+

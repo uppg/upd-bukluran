@@ -1,0 +1,52 @@
+8
+
+dir
+151
+https://bukluran2.googlecode.com/svn/trunk/system/plugins/fckeditor/editor/filemanager/browser/default/js
+https://bukluran2.googlecode.com/svn
+
+
+
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+26e7e214-c618-11de-bfbd-4d0f0f27293a
+
+fckxml.js
+file
+
+
+
+
+2010-06-11T06:10:08.000000Z
+80c97784fd2d9fe400bdf57696449722
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+common.js
+file
+
+
+
+
+2010-06-11T06:10:08.000000Z
+0df854beba3e91164433d69394c66b75
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+

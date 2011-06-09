@@ -1,0 +1,73 @@
+8
+
+dir
+151
+https://bukluran2.googlecode.com/svn/trunk/system/plugins/fckeditor/editor/filemanager/connectors
+https://bukluran2.googlecode.com/svn
+
+
+
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+26e7e214-c618-11de-bfbd-4d0f0f27293a
+
+lasso
+dir
+
+perl
+dir
+
+test.html
+file
+
+
+
+
+2010-06-11T06:10:14.000000Z
+b13a4868604965947bb636100099900e
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+asp
+dir
+
+cfm
+dir
+
+php
+dir
+
+uploadtest.html
+file
+
+
+
+
+2010-06-11T06:10:14.000000Z
+2aaa869b7d8af66b0d5742443567372f
+2010-02-25T17:08:48.102560Z
+12
+jc.deoferio@gmail.com
+
+py
+dir
+
+aspx
+dir
+
